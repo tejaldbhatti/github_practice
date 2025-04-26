@@ -1,2 +1,3 @@
 Name: Tejal Bhatti
 print("Hello")
+print("My favrt color is blue")
